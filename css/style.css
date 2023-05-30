@@ -1,0 +1,76 @@
+body,html{
+   height: 100%;
+   margin: 0;
+   padding: 0;
+}
+
+
+#arriba{
+   padding-bottom: 10%;
+   padding-top: 2%;
+   background: linear-gradient(25deg, #b7cac8 0, #a0bcbb 16.67%, #83a9aa 33.33%, #5e9397 50%, #347d85 66.67%, #006b79 83.33%, #005d70 20%), url("../img/fondo.jpg");
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+
+}
+.logo{
+   width: 100px;
+   height: 125px;
+}
+
+.text-descriptions{
+   letter-spacing: 2px;
+   font-family: sans-serif;
+   text-align: center;
+}
+
+.centrar{
+    text-align: center;
+    align-content: center;
+}
+
+.form-control{
+   background: transparent !important;
+   columns: #fff !important;
+}
+
+a .fab{
+   color: #fff;
+   font-size: 30px;
+   margin:0,10px;
+}
+
+#mitad_abajo{
+   background: #f1f1f1;
+   padding: 50px 30px 0;
+   text-align: center;
+   margin-top: 40px;
+}
+#mitad{
+
+   padding: 50px 30px 0;
+   text-align: center;
+   margin-top: 40px;   
+}
+.img2{
+   width: 100%;
+
+}
+.transparente{
+   background-color: transparent;
+   border: none;
+}
+#inferior{
+   background: #fff;
+}
+#contactos{
+   background: #fff;
+}
+footer{
+  padding-bottom:1%;
+}
+.ultima{
+   background: rgb(179,178,191);
+   background: linear-gradient(90deg, rgba(179,178,191,1) 0%, rgba(195,245,214,1) 48%);
+}
